@@ -1,0 +1,11 @@
+2.4.0
++ Moved to new git repository.
+
+2.0.2
++ Fixed: CinnamonException could in some circumstances (null parameter) fail to create a i18n message.
+
+2.0.1
++ Added new Constants: all default index item and index field names.
+
+1.0.9
++ Added "failed" state to procstate-constants.

@@ -93,6 +93,7 @@ public class Constants {
     public static final String METASET_TRANSLATION_EXTENSION = "translation_extension";
     public static final String METASET_SEARCH = "search";
     public static final String METASET_CART = "cart";
+    public static final String METASET_NOTIFICATION = "notification";
     
     // Constants for the RenderServer extension
     public static final String RENDER_SERVER_LIFECYCLE = "_RenderServerLC";

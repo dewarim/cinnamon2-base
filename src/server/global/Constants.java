@@ -79,12 +79,14 @@ public class Constants {
 	public static final String PROCSTATE_TASK_TODO = "todo";
 	public static final String PROCSTATE_TASK_DONE = "done";
 	public static final String PROCSTATE_TRANSITION_READY = "transition_ready";
-	public static final String PROCSTATE_WORKFLOW_STARTED = "running";
-	public static final String PROCSTATE_WORKFLOW_FINISHED = "finished";
-	public static final String PROCSTATE_REVIEW_OK = "review_ok";
+    public static final String PROCSTATE_TRANSITION_FAILED = "transition_failed";
+    public static final String PROCSTATE_WORKFLOW_STARTED = "running";
+    public static final String PROCSTATE_WORKFLOW_FINISHED = "finished";
+    public static final String PROCSTATE_REVIEW_OK = "review_ok";
     
     public static final String METASET_TASK_DEFINITION = "task_definition";
     public static final String METASET_WORKFLOW_TEMPLATE = "workflow_template";
+    public static final String METASET_LOG = "log";
     public static final String METASET_TRANSITION = "transition";
     public static final String METASET_RENDER_INPUT = "render_input";
     public static final String METASET_RENDER_OUTPUT = "render_output";

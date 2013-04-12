@@ -20,7 +20,7 @@ package server.global;
 
 public class Constants {
 
-    public static final String SERVER_VERSION = "2.5.0";
+    public static final String SERVER_VERSION = "2.5.0.1";
     
 	public static final String PS_LABEL_CREATED="_created";
 	public static final String ACL_DEFAULT="_default_acl";

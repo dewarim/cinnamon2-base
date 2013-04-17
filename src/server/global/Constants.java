@@ -20,7 +20,7 @@ package server.global;
 
 public class Constants {
 
-    public static final String SERVER_VERSION = "2.5.0.1";
+    public static final String SERVER_VERSION = "2.5.0.2";
     
 	public static final String PS_LABEL_CREATED="_created";
 	public static final String ACL_DEFAULT="_default_acl";
@@ -41,6 +41,7 @@ public class Constants {
 	public static final String OBJTYPE_CONFIG = "_config";
 	public static final String OBJTYPE_IMAGE = "image";
 	public static final String OBJTYPE_DOCUMENT = "document";
+	public static final String OBJTYPE_NOTIFICATION = "_notification";
 
 	public static final String FOLDER_TYPE_DEFAULT = "_default_folder_type";
 	public static final String INDEX_GROUP_DEFAULT = "_default_index_group";
